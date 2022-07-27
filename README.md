@@ -1,9 +1,9 @@
 # 👋欢迎你，这里是cyong!
 
 - 🧐 cs硕士在读.
-- 👀 有志于从事js全栈.
-- 🔭 掘金：https://juejin.cn/user/4046671739628798
-- 📫 CSDN：https://blog.csdn.net/weixin_42920294
+- 👀 有志于从事全栈开发.
+- 🔭 掘金：[https://juejin.cn/user/4046671739628798](https://juejin.cn/user/427081105940919)
+- 📫 CSDN：[https://blog.csdn.net/weixin_42920294](https://blog.csdn.net/weixin_42920294)
 
 
 
