@@ -1,4 +1,17 @@
-### Hi there 👋
+# 👋欢迎你，这里是cyong!
+
+- 🧐 cs硕士在读.
+- 👀 有志于从事js全栈.
+- 🔭 掘金：https://juejin.cn/user/4046671739628798
+- 📫 CSDN：https://blog.csdn.net/weixin_42920294
+
+
+
+# 🎬关于我的GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jack-yong&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-yong&layout=compact)
 
 <!--
 **jack-yong/jack-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
